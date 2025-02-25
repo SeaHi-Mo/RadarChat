@@ -1,0 +1,36 @@
+wakeup_uni=hello radar chat|hey radar chat|hi radar chat@Hi, what can I help you|Hi, I am here|Hello|Master, youre finally back
+    0x5a 0x0 0x0 0x0 0x5a
+exitUni=see you|goodbye@see you later
+    0x5a 0x1 0x0 0x0 0x5b
+L1=remind me to get up in a minute|set a one minute reminder@OKay,Remind you to get up in a minute|You have been sitting too long. Get up and exercise
+    0x5a 0x2 0x0 0x0 0x5c
+L2=remind me in ten minutes|wake me up in ten minutes@Okay, set a reminder for ten minute
+    0x5a 0x3 0x0 0x0 0x5d
+L3=remind me in thirty minutes|cue me in thirty minutes@Okay, set a  thirty minute reminder
+    0x5a 0x4 0x0 0x0 0x5e
+L4=remind me in an hour|remind me to exercise in an hour@Okay, one hour reminder
+    0x5a 0x5 0x0 0x0 0x5f
+L5=remind me to drink water after two hours@Okay. Reminder to drink water in two hours|Remember to drink water
+    0x5a 0x6 0x0 0x0 0x60
+L6=remind me to drink water after ten minutes@Okay, set a reminder for ten minutes|It is time. Remember to drink your water.
+    0x5a 0x7 0x0 0x0 0x61
+L7=remind me to drink water after twenty minutes@Okay, set a reminder for Okay, set a reminder for  twenty minutes|It is time. Remember to drink your water. minutes|It is time. Remember to drink your water
+    0x5a 0x8 0x0 0x0 0x62
+L8=remind me to drink water after thirteen minutes@Okay, set a reminder for Okay, set a reminder for  thirteen minutes|It is time. Remember to drink your water. minutes|It is time. Remember to drink your water.
+    0x5a 0x9 0x0 0x0 0x63
+L9=remind me to drink water after an hour@Okay, set a reminder for Okay, set a reminder for  one hour|It is time. Remember to drink your water. minutes|It is time. Remember to drink your water.
+    0x5a 0xa 0x0 0x0 0x64
+close1=turn off sedentary reminders@Okay, turn off the sedentary alert.
+    0x5a 0xb 0x0 0x0 0x65
+close2=turn off water reminders@Okay, turn off the water reminder
+    0x5a 0xc 0x0 0x0 0x66
+L10=reminder to drink water after ten seconds@Okay. Remind the chief to drink in ten seconds.
+    0x5a 0xd 0x0 0x0 0x67
+L20=reminder to drink water after twenty seconds@Okay. Remind the chief to drink in twenty seconds.
+    0x5a 0xe 0x0 0x0 0x68
+L30=reminder to drink water after thirty seconds@Okay. Remind the chief to drink in thirty seconds.
+    0x5a 0xf 0x0 0x0 0x69
+L40=reminder to drink water after forty seconds@Okay. Remind the chief to drink in forty seconds.
+    0x5a 0x10 0x0 0x0 0x6a
+L50=reminder to drink water after fifty seconds@Okay. Remind the chief to drink in fifty seconds.
+    0x5a 0x11 0x0 0x0 0x6b

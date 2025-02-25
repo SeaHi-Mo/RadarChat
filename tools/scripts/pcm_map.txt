@@ -1,0 +1,29 @@
+101.pcm    It is already the maximum volume
+102.pcm    It is already the minimum volume
+103.pcm    Hi, what can I help you
+104.pcm    Hi, I am here
+105.pcm    Hello
+106.pcm    Master, youre finally back
+107.pcm    see you later
+108.pcm    Hi I am Radar Chat, you can set me to be your sedentary reminder and water reminder.
+109.pcm    OKay,Remind you to get up in a minute
+110.pcm    You have been sitting too long. Get up and exercise
+111.pcm    Okay, set a reminder for ten minute
+112.pcm    Okay, set a  thirty minute reminder
+113.pcm    Okay, one hour reminder
+114.pcm    Okay. Reminder to drink water in two hours
+115.pcm    Remember to drink water
+116.pcm    Okay, set a reminder for ten minutes
+117.pcm    It is time. Remember to drink your water.
+118.pcm    Okay, set a reminder for Okay, set a reminder for  twenty minutes
+119.pcm    It is time. Remember to drink your water. minutes
+120.pcm    It is time. Remember to drink your water
+121.pcm    Okay, set a reminder for Okay, set a reminder for  thirteen minutes
+122.pcm    Okay, set a reminder for Okay, set a reminder for  one hour
+123.pcm    Okay, turn off the sedentary alert.
+124.pcm    Okay, turn off the water reminder
+125.pcm    Okay. Remind the chief to drink in ten seconds.
+126.pcm    Okay. Remind the chief to drink in twenty seconds.
+127.pcm    Okay. Remind the chief to drink in thirty seconds.
+128.pcm    Okay. Remind the chief to drink in forty seconds.
+129.pcm    Okay. Remind the chief to drink in fifty seconds.
